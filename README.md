@@ -14,14 +14,14 @@
 
 - 📫 How to reach me **bagbanikram@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1j-d_rXRbWhlyqOGgS5KnRUEnzQIlmMfJ/view?usp=drive_link](https://drive.google.com/file/d/1j-d_rXRbWhlyqOGgS5KnRUEnzQIlmMfJ/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/190VMKfhPY9EwQtt1-xQ3ttJwQJOB4_Q-/view?usp=sharing](https://drive.google.com/file/d/190VMKfhPY9EwQtt1-xQ3ttJwQJOB4_Q-/view?usp=sharing)
 
 - ⚡ Fun fact **can solve a Rubik's Cube in under 5 minutes!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ikram-bagban-254a57243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ikram-bagban-254a57243/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ikrambagban/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ikrambagban/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ikram-bagban-254a57243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ikram-bagban-254a57243/" height="30" width="40" /></a>
+<a href="https://leetcode.com/ikrambagban/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ikrambagban/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/bagban273v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bagban273v" height="30" width="40" /></a>
 </p>
 
