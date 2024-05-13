@@ -13,8 +13,8 @@
 - 💬 Ask me about **react native**
 
 - 📫 How to reach me **bagbanikram@gmail.com**
+<!-- - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1vW3U-aDlJsywdZmdAzvMRDLuc1RC_l2-/view) -->
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1vW3U-aDlJsywdZmdAzvMRDLuc1RC_l2-/view)
 
 - ⚡ Fun fact **can solve a Rubik's Cube in under 5 minutes!**
 
