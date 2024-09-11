@@ -1,5 +1,5 @@
 ![MasterHead](https://drive.google.com/uc?export=view&id=1K3or-EBlW8bVpYtEkrRhzF-NXzBU9Siq)
-<h1 align="center">Hi 👋, I'm Ikram Bagban</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ikram Bagban</h1>
 <h3 align="center">Exploring the Depths of Code and Creativity</h3>
 
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
