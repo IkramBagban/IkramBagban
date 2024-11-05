@@ -8,9 +8,9 @@
 
 
 
-- 🌱 I’m currently learning **Data Structure And Algorithm**
+- 🌱 I’m currently learning **System Design  **
 
-- 💬 Ask me about **react native**
+- 💬 Ask me about **react native**, **react.js**, **next.js**, **node.js**
 
 - 📫 How to reach me **bagbanikram@gmail.com**
 <!-- - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1vW3U-aDlJsywdZmdAzvMRDLuc1RC_l2-/view) -->
