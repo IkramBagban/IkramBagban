@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **System Design  **
+- 🌱 I’m actively learning
 
 - 💬 Ask me about **react native**, **react.js**, **next.js**, **node.js**
 
@@ -16,7 +16,7 @@
 <!-- - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1vW3U-aDlJsywdZmdAzvMRDLuc1RC_l2-/view) -->
 
 
-- ⚡ Fun fact **can solve a Rubik's Cube in under 5 minutes!**
+- ⚡ Fun fact **can solve a Rubik's Cube in under 2 minutes!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
