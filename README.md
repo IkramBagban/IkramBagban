@@ -31,9 +31,9 @@
 <a href=#><img src="https://raw.githubusercontent.com/anmolwadhwaxx/anmolwadhwaxx/deda191d8faa317e1087ba3e16bee98b6b9b29ea/snake.svg"></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikrambagban/ikrambagban/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ikrambagban/ikrambagban/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ikrambagban/ikrambagban/output/github-contribution-grid-snake.svg">
 </picture>
 
 
