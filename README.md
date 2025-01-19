@@ -21,6 +21,8 @@
 <a href="https://www.linkedin.com/in/ikram-bagban-254a57243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ikram-bagban-254a57243/" height="30" width="40" /></a>
 <a href="https://leetcode.com/ikrambagban/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ikrambagban/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/bagban273v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bagban273v" height="30" width="40" /></a>
+  <a href="https://x.com/Ikram_Bagban?t=KsWNfHJwZGGir6WaeoKPeg&s=09" target="blank"><img align="center" src="https://th.bing.com/th?id=OIP.ZweGejPwbT5wwshQ2-8qUQHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" alt="bagban273v" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
