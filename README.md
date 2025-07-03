@@ -91,6 +91,15 @@ I'm a passionate **Full Stack Developer** and **DevOps Enthusiast** who loves tu
 
 ---
 
+### 🔧 Open Source Contributions
+<div align="">
+  <a href="https://github.com/search?q=is%3Apr+author%3Aikrambagban+-user%3Aikrambagban&type=pullrequests&p=2" target="_blank">
+    <img src="https://img.shields.io/badge/View%20All%20PRs-1f425f?style=for-the-badge&logo=github&logoColor=white" alt="View All Pull Requests" />
+  </a>
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
