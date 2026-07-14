@@ -75,7 +75,7 @@ I'm a passionate **Full Stack Developer** and **DevOps Enthusiast** who loves tu
 ## Connect With Me
 
 <div>
-  <a href="https://ikrambagban.me" target="_blank">
+  <a href="https://ikrambagban.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/ikram-bagban-254a57243/" target="_blank">
