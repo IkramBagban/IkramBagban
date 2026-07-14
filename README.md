@@ -20,19 +20,19 @@
   <img src="https://img.shields.io/github/followers/ikrambagban?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
 </p>
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate **Full Stack Developer** and **DevOps Enthusiast** who loves turning ideas into reality through code. With a strong foundation in modern web technologies and cloud infrastructure, I build scalable, efficient, and user-friendly applications.
 
 - 🌱 I'm actively learning
-- 💼 Check out my portfolio: **[ikrambagban.me](https://ikrambagban.me)**
+- 💼 Check out my portfolio: **[ikrambagban.vercel.app](https://ikrambagban.vercel.app)**
 - 💬 Ask me about **React, Next.js, Node.js, AWS, Docker, Kubernetes**
 - 📫 Reach me at: **bagbanikram@gmail.com**
 - ⚡ Fun fact: **I can solve a Rubik's Cube in under 2 minutes!** 🧩
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 <p align="left">
@@ -72,7 +72,7 @@ I'm a passionate **Full Stack Developer** and **DevOps Enthusiast** who loves tu
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 </p>
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div>
   <a href="https://ikrambagban.me" target="_blank">
@@ -91,7 +91,7 @@ I'm a passionate **Full Stack Developer** and **DevOps Enthusiast** who loves tu
 
 ---
 
-### 🔧 Open Source Contributions
+### Open Source Contributions
 <div align="">
   <a href="https://github.com/search?q=is%3Apr+author%3Aikrambagban+-user%3Aikrambagban&type=pullrequests&p=2" target="_blank">
     <img src="https://img.shields.io/badge/View%20All%20PRs-1f425f?style=for-the-badge&logo=github&logoColor=white" alt="View All Pull Requests" />
@@ -100,7 +100,7 @@ I'm a passionate **Full Stack Developer** and **DevOps Enthusiast** who loves tu
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikrambagban&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
@@ -114,7 +114,7 @@ I'm a passionate **Full Stack Developer** and **DevOps Enthusiast** who loves tu
 <!--
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikrambagban&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
@@ -123,7 +123,7 @@ I'm a passionate **Full Stack Developer** and **DevOps Enthusiast** who loves tu
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <div align="center">
   <a href="https://github.com/ikrambagban/repo1">
