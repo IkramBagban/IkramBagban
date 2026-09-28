@@ -9,7 +9,7 @@
         <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
       </td>
       <td>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=400&lines=Full+Stack+Developer;DevOps+Enthusiast;Always+Learning" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=480&lines=Full+Stack+Developer;AI+Engineer;Building+agents+%26+AI+products" alt="Typing SVG" />
       </td>
     </tr>
   </table>
@@ -22,10 +22,10 @@
 
 ## About Me
 
-I'm a passionate **Full Stack Developer** and **DevOps Enthusiast** who loves turning ideas into reality through code. With a strong foundation in modern web technologies and cloud infrastructure, I build scalable, efficient, and user-friendly applications.
+I'm a **Full Stack / AI Engineer** who loves turning ideas into reality through code. I build scalable, user-friendly applications and AI products.
 
 - 🌱 I'm actively learning
-- 💼 Check out my portfolio: **[ikrambagban.vercel.app](https://ikrambagban.vercel.app)**
+- 💼 Know more about me on my portfolio: **[ikrambagban.vercel.app](https://ikrambagban.vercel.app)**
 - 💬 Ask me about **React, Next.js, Node.js, AWS, Docker, Kubernetes**
 - 📫 Reach me at: **bagbanikram@gmail.com**
 - ⚡ Fun fact: **I can solve a Rubik's Cube in under 2 minutes!** 🧩
