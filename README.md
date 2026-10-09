@@ -81,10 +81,10 @@ I'm a **Full Stack / AI Engineer** who loves turning ideas into reality through 
   <a href="https://www.linkedin.com/in/ikram-bagban-254a57243/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/Ikram_Bagban?t=KsWNfHJwZGGir6WaeoKPeg&s=09" target="_blank">
+  <a href="https://x.com/Ikrambagban?t=KsWNfHJwZGGir6WaeoKPeg&s=09" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:bagbanikram@gmail.com">
+  <a href="mailto:ikrambagban.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
